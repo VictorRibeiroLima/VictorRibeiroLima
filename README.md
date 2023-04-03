@@ -3,7 +3,7 @@
 <img style="margin: 0 auto" src="https://giffiles.alphacoders.com/146/146448.gif" height="200">
 
 
-- 👷 I’m Software Engineer at <a target="_blank" href="https://parceladolara.com.br//">Lara</a>
+- 👷 I’m a Software Engineer at <a target="_blank" href="https://parceladolara.com.br//">Lara</a>
 - 😄 I push random stuff made on weekends here
 - 🌱 I'm currently really into Go,so expect a lot of mini projects on that
 - ⚡ Fun fact: I'm inside your walls!!!
