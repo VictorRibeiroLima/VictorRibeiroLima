@@ -5,7 +5,7 @@
 
 - 👷 I’m a Software Engineer at <a target="_blank" href="https://parceladolara.com.br//">Lara</a>
 - 😄 I push random stuff made on weekends here
-- 🌱 I'm currently really into Go,so expect a lot of mini projects on that
+- 🌱 I'm currently really into Rust,so expect a lot of mini projects on that
 - ⚡ Fun fact: I'm inside your walls!!!
 
 ![VictorRibeiroLima Status](https://github-readme-stats.vercel.app/api?username=VictorRibeiroLima&show_icons=true&theme=dark)
